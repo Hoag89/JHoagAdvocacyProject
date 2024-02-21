@@ -152,10 +152,10 @@ ul li {
 
 
 .navbar {
-  position: fixed;
-  width: 95%;
+  background-color: #e3f3b0;
+  /* width: 95%; */
   top: 0;
-  margin: 20px;
+  /* margin: 20px; */
   z-index: 100; /* Adjust the z-index value as needed */
 }
 .navbar ul {
@@ -205,7 +205,7 @@ ul li {
 }
 
 #navbar-style{
-  margin: 5px;
+  margin-bottom: 2px;
 }
 
 /* Style rule set for hovered link */
